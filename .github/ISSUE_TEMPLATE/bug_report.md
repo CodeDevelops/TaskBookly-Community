@@ -2,7 +2,7 @@
 name: Bug report
 about: Report a problem you experienced on TaskBookly.
 title: ''
-labels: ''
+labels: bug
 assignees: ''
 
 ---

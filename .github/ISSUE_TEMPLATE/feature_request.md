@@ -2,7 +2,7 @@
 name: Feature request
 about: Suggest an idea that you think should be added to TaskBookly.
 title: ''
-labels: ''
+labels: enhancement
 assignees: ''
 
 ---
