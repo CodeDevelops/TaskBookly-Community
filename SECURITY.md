@@ -4,7 +4,7 @@ This document outlines important safety & security procedures you should take in
 
 ## Reporting a vulnerability
 
-Reports may **NOT** be reported thru a [Security advisory](https://github.com/CodeDevelops/TaskBookly-Community/security/advisories/new) in the **Security** tab.
+Reports may **NOT** be reported thru a [security advisory](https://github.com/CodeDevelops/TaskBookly-Community/security/advisories/new) in the **Security** tab.
 This is because security vulnerabilities can cause serious issues and should only be reported privately to minimize spread & damage.
 
 > [!CAUTION]
@@ -15,7 +15,7 @@ This is because security vulnerabilities can cause serious issues and should onl
 Below is a list of examples that are and are not security vulnerabilities.
 
 ### Symbols
-⚠️ = Security Vulnerability (must be reported via email)<br>
+⚠️ = Security Vulnerability (must be reported via a security advisory)<br>
 🟢 = Not a vulnerability (should be reported in 'Issues' tab)
 
 ### Scenerios
