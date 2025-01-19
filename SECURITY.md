@@ -25,3 +25,8 @@ Below is a list of examples that are and are not considered security vulnerabili
 | A user can successfully create an account with illegal characters that usually aren't allowed. | ⚠️ |
 | A user found a loophole in server checks that allowed them to fetch private tasks from other users. | ⚠️ |
 | A user can click on a submit button even though they haven't entered in any information. The server returns an error and doesn't fail internally. | 🟢 |
+
+If you are not sure if you found a security vulnerability, please do not hesitate to open a security advisory and detail the issue there.
+
+Keeping TaskBookly safe and secure is our top priority and is taken very seriously.
+Thank you for helping us keep TaskBookly safe.
