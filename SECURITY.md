@@ -1,6 +1,6 @@
 # Security Policy
 
-This document outlines important safety & security procedures you should take into account if finding vulnerabilities on TaskBookly.
+This document outlines important safety & security procedures you should take into account if finding security vulnerabilities on TaskBookly.
 
 ## Reporting a vulnerability
 
