@@ -4,11 +4,11 @@ This document outlines important safety & security procedures you should take in
 
 ## Reporting a vulnerability
 
-Reports may **NOT** be reported in Issues and should be reported via email to **report@taskbookly.com**.
+Reports may **NOT** be reported thru a (Security advisory)[https://github.com/CodeDevelops/TaskBookly-Community/security/advisories/new] in the **Security** tab.
 This is because security vulnerabilities can cause serious issues and should only be reported privately to minimize spread & damage.
 
 > [!CAUTION]
-> The rule above is strictly inforced. Any issues opened detailing security vulnerabilities will result in them being deleted and the author being banned from opening any more issues.
+> The rule above is strictly inforced. Any issues opened describing or detailing security vulnerabilities will result in them being deleted and the author being banned from opening any more issues.
 
 ## What is considered a security vulnerability?
 
