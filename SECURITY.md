@@ -4,11 +4,11 @@ This document outlines important safety & security procedures you should take in
 
 ## Reporting a vulnerability
 
-Reports may **NOT** be reported thru public issues or discussions and instead should be reported in a [security advisory](https://github.com/CodeDevelops/TaskBookly-Community/security/advisories/new) in the **Security** tab.
-This is because security vulnerabilities can cause serious issues and should only be reported privately to minimize spread & damage.
+Reports may **NOT** be posted in public issues or discussions and instead should be reported in a [security advisory](https://github.com/CodeDevelops/TaskBookly-Community/security/advisories/new) in the **Security** tab.
+This is because security vulnerabilities can cause serious damage and should only be reported privately to minimize spread & data mismanagement.
 
 > [!CAUTION]
-> The rule above is strictly inforced. Any issues opened describing or detailing security vulnerabilities will result in them being deleted and the author being banned from opening any more issues.
+> The rule above is strictly enforced. Any issues or discussions opened describing or detailing security vulnerabilities will result in them being deleted and the author being banned from opening any more issues.
 
 ## What is considered a security vulnerability?
 
